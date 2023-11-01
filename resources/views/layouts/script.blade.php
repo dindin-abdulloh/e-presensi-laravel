@@ -15,6 +15,7 @@
     <!-- Base Js File -->
     <script src="{{ asset('assets/js/base.js') }}"></script>
     <script src="{{ asset('assets/js/plugins/webcam.min.js') }}" ></script>
+    <script src="{{ asset('assets/js/plugins/sweetalert2@11.js') }}"></script>
     <script>
         am4core.ready(function () {
 
